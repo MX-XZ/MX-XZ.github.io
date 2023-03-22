@@ -8,8 +8,18 @@
         {% assign prompt = 'Back to Home' %}
     {% endif %}
 
-    <a href="{{ link | prepend: site.baseurl }}">
-        <img class="gravatar" src="https://www.gravatar.com/avatar/{{ site.author_gravatar }}.png?s=80">
+    <a href="{{ link | prepend: site.baseurl }}" style="
+            width: 200px;
+            height: 200px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        ">
+        <img class="gravatar" src="/profile_pic.png" style="
+            width: 190px;
+            height: 190px;
+            margin: 0px;
+        "/>
     </a>
     <span class="logo-prompt">{{ prompt }}</span>
 
