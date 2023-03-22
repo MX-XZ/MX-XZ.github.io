@@ -1,13 +1,13 @@
 # Site Info
-title:              "MX-XZ"
+title:              "Michael Zheng"
 description:        "Personal homepage of Xiangxiang Michael Zheng"
 google_verify:      abc123 # Put your Google Verification here
 google_analytics:   UA-123
 
 # Author Info
 author_name:        "Xiangxiang Michael Zheng" # Your name here
-author_email:       MXXZ20@gmail.com # Your email here
-author_gravatar:    e98e5de03e97f8498caab87e85a43f9a # Your Gravatar md5 hash here for logo
+author_email:       xiangxiang.zheng@studium.uni-hamburg.de # Your email here
+# Previously had profile pic gravatar thing here, but put image directly into directory. 
 
 # Site Settings
 url:                 https://MX-XZ.github.io # Change to your site
