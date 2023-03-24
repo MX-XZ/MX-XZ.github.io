@@ -12,7 +12,7 @@ by constructing a trading strategy which uses historical stock prices. In the en
 Math, I feel like, is one of the most misunderstood and mistaught subjects in school and university. 
 One of my goals in life is to show that not only math is useful but also a worthy subject to study on its own right.  
 <h3>Videos &#172;</h3>
-I am a big fan of channels like 3Blue1Brown or Aleph 0. So naturally, I became interested in making videos about math and related topics as well. 
+I am a big fan of channels like [3Blue1Brown](https://www.youtube.com/c/3blue1brown) or [Aleph 0](https://www.youtube.com/@Aleph0). So naturally, I became interested in making videos about math and related topics as well. 
 
 This first one was done for a seminar. The goal was for students in groups of three or four to make a video on a mathematical topic. 
 We chose to make a video about Van der Waerden's Theorem. As suggested by the seminar, we animated most of the video in Manim, the animation engine originally written by Grant Sanderson, the maker behind 3Blue1Brown.
