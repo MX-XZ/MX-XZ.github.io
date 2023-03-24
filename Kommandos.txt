@@ -1,0 +1,52 @@
+- Umgebungen: Einen Abstract / Theorem / Proof macht man mit 
+
+{% abstract %}
+...
+{% endabstract %}
+
+{% theorem %}
+...
+{% endtheorem %}
+
+{% proof %}
+...
+{% endproof %}
+
+- # ist Titel, ## Untertitel, und ### Unteruntertitel.
+
+- Für einen Table of Contents mache man:
+
+* TOC
+{:toc}
+
+- *kursiv*, **fett**, ***kursiv-fett***
+
+- <small>klein</small>, <sub>subscripted</sub>, <sup>superscripted</sup>, <ins>inserted</ins>, ~~deleted~~, or <mark>highlighted</mark>.
+
+- [hyperlink] (url)
+
+- <kbd>Keyboard Input</kbd>
+
+- Um etwas zu zentrieren, starte man die Zeile mit ":". 
+
+- Ein Zitat geht so:
+
+> If I have seen further [than others], it is by standing on the shoulders of giants.
+<cite>— Isaac Newton</cite>
+
+- Tabellen gehen so:
+
+|Header 1|Header 2|Header 3|
+|--- |--- |--- |
+|Description 1|Description 2|Description 3|
+|Description 1|Description 2|Description 3|
+|Description 1|Description 2|Description 3|
+
+- Bilder gehen so:
+
+{% include image.html
+    url="/assets/latex_image_example.jpeg"
+    description="Mountain landscape by John Towner."
+%}
+
+- Ungeordnete / geordnete Liste starten mit "- " / "1. " 

@@ -4,7 +4,8 @@ title: About
 author: Xiangxiang Michael Zheng
 ---
 
-{% include image.html url="/about_me.jpg" %}
+{% include image.html url="/about_me.jpg" 
+description = "Me enjoying Soeul in 2022"%}
 
 Hey, I am Michael. I am currently doing a master's degree in Mathematics at the University of Hamburg. Before that, I double majored in Mathematics and Computer Science at 
 the Karlsruhe Institute of Technology. 
