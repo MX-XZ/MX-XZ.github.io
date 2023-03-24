@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: About
+author: Xiangxiang Michael Zheng
 ---
 
 {% include image.html url="/about_me.jpg" %}

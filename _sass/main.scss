@@ -48,6 +48,9 @@
 	box-sizing: border-box;
 }
 
+a:link {
+	text-decoration: none;
+}
 /* Remove default margin */
 body,
 h1,
@@ -379,7 +382,7 @@ h5,
 h6 {
 	margin-bottom: 0.8rem;
 }
-
+iframe { display: block; }
 .logo {
 	position: relative;
 	margin: 0 auto 35px;
