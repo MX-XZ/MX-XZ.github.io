@@ -39,7 +39,7 @@ Grade | 1.0
 <h5>Miscellaneous &#172;</h5>
 
 --- | --- 
-2021 -- | Host of <a href="https://www.youtube.com/playlist?list=PLQ1ed4-nGULy5kWa8QJve9VHaWVIMOj3U">*Film Talks*</a> with <a href="https://j-he-9c9329.webflow.io/">Jiaxuan He</a>.
+2020 -- | Host of <a href="https://www.youtube.com/playlist?list=PLQ1ed4-nGULy5kWa8QJve9VHaWVIMOj3U">*Film Talks*</a> with <a href="https://j-he-9c9329.webflow.io/">Jiaxuan He</a>.
 
 <h3>Technical Skills &#172;</h3>
 
