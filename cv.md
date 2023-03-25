@@ -24,12 +24,13 @@ Grade | 1.0
 If you are interested in reading my thesis, you may go to <a href="{{ '/materials' | site.baseurl | prepend: site.url }}" title="Materials">Materials</a>. 
 
 <h3>Experience</h3>
+
 <h5>Student Assistant &#172;</h5>
 
 --- |---
-2020 -- 2021 | Grading and tutoring *Theoretical Foundations of Computer Science*.
-2021 -- 2021 | Grading and tutoring *Introductory Stochastics for Teachers*.
 2021 -- 2022 | Grading *Graph Theory*.
+2021 -- 2021 | Grading and tutoring *Introductory Stochastics for Teachers*.
+2020 -- 2021 | Grading and tutoring *Theoretical Foundations of Computer Science*.
 
 <h5>Choir Singer &#172;</h5>
 
