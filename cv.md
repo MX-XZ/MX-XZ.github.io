@@ -48,8 +48,8 @@ If you are interested in reading my thesis, you may go to <a href="{{ '/material
 
 --- | ---
 Programming | Varying experience in *Java*, *MatLab*, *Python*, and others.
-Video Editing | Experience in *DaVinci Resolve*.
 Audio Editing | Experience in *Ableton Live 10*. 
+Video Editing | Experience in *DaVinci Resolve*.
 
 <h3>Language Skills</h3>
 
