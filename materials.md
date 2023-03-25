@@ -4,11 +4,11 @@ author: Xiangxiang Michael Zheng
 layout: post
 ---
 
-Over the years, I have written quite a few summaries, *some* of them are listed here.  
+Over the years, I have written quite a few summaries, protocols etc., *some* of them are listed here.  
 May someone find them helpful in their studies. 
 
 <h3>Karlsruhe Institute of Technology</h3>
-<h5>Bachelor's Thesis &#172;</h5>
+<h5>Bachelor's Thesis (2021 – 2022) &#172;</h5>
 <a href="{{ '/assets/pdfs/Bachelorarbeit_Michael_Zheng.pdf' | site.baseurl | prepend: site.url }}" title="Bachelor's Thesis">Bachelor's Thesis</a>
 <br>
 <a href="https://www.math.kit.edu/iag6/~axenovich/seite/publications/media/sevastianov-translation.pdf" title="Translation">Translation of a Paper by S. V. Sevastianov</a>

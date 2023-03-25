@@ -8,4 +8,4 @@ Really, this is only up (for now) because I can brag about having Erdős number 
 Paul Erdős $\to$ Zoltán Füredi $\to$ Maria Axenovich $\to$ me.
 
 <h3>2022 &#172;</h3>
-<a href="https://arxiv.org/abs/2205.05947" title="arXiv">Axenovich, M., &#38; Zheng, M. *Interval colorings of graphs -- coordinated and unstable no-wait schedules*. Submitted.</a>
+<a href="https://arxiv.org/abs/2205.05947" title="arXiv">Axenovich, M., Zheng, M., *Interval colorings of graphs -- coordinated and unstable no-wait schedules*. Submitted.</a>
