@@ -9,7 +9,7 @@ layout: cv
 --- |--- 
 2022 -- | **M. Sc. Mathematics**, *University of Hamburg*, *currently 1.0*.
 2019 -- 2022 | **B. Sc. Mathematics**, *Karlsruhe Institute of Technology*, *1.1*.
-2018 -- 2022 | **B. Sc. Computer Science**, *Karlsruhe Institute of Technology*, *1.3*.
+2018 -- 2022 | **B. Sc. Computer Science**, *Karlsruhe Institute of Technology*, *1.2*.
 2010 -- 2018 | **Abitur**, *Helmholtz-Gymnasium*, Karlsruhe, *1.4*.
 2006 -- 2010 | **Primary Education**, *Viktor-von-Scheffel Schule*, Karlsruhe.
 
