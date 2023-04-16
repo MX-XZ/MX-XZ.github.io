@@ -16,24 +16,35 @@ I am a big fan of channels like [3Blue1Brown](https://www.youtube.com/c/3blue1br
 
 This first one was done for a seminar. The goal was for students in groups of three or four to make a video on a mathematical topic. 
 We chose to make a video about Van der Waerden's Theorem. As suggested by the seminar, we animated most of the video in Manim, the animation engine originally written by Grant Sanderson, the maker behind 3Blue1Brown.
-<iframe width="420" height="315" allow="fullscreen;"
-src="https://www.youtube.com/embed/Hb35djuGMIg">
-</iframe> 
+
+<div class="video-container">
+  <iframe width="100%" height="100%" frameborder="0" allow="fullscreen;"
+  src="https://www.youtube.com/embed/Hb35djuGMIg">
+  </iframe> 
+</div>
+
 The next one was actually for the ''Summer of Math Exposition 2022'', a math video competition hosted by Grant Sanderson and others. Despite the fact that we technically could have just submitted our video for the seminar, my friend, who also in my group in the seminar, and I would decide to make a completely new one. This time around, we tackled another beautiful result in Combinatorics dealing with counting the number of tilings of a chess board. Although we didn't win one of the main prizes, we got very far and are both happy as to how it turned out.  
-<iframe width="420" height="315" allow="fullscreen;"
-src="https://www.youtube.com/embed/5nsQJe7GmdI">
-</iframe> 
+
+<div class="video-container">
+  <iframe width="100%" height="100%" frameborder="0" allow="fullscreen;"
+  src="https://www.youtube.com/embed/5nsQJe7GmdI">
+  </iframe> 
+</div>
 
 <h2>Miscellaneous</h2>
 
 <h3>Choir &#172;</h3>
 During the Corona pandemic, I participated in a video project of my school choir that would hopefully brighten people's days during those hard times. 
-<iframe width="420" height="315" allow="fullscreen;"
-src="https://www.youtube.com/embed/l-VZ2SAqaXI">
-</iframe> 
+<div class="video-container">
+  <iframe width="100%" height="100%" frameborder="0" allow="fullscreen;"
+  src="https://www.youtube.com/embed/l-VZ2SAqaXI">
+  </iframe> 
+</div>
 
 <h3>Podcast &#172;</h3>
 Together with <a href="https://j-he-9c9329.webflow.io/">Jiaxuan He</a>, I host a (semi-regular) movie podcast. 
-<iframe width="420" height="315" allow="fullscreen;"
+<div class="video-container">
+  <iframe width="100%" height="100%" frameborder="0" allow="fullscreen;"
 src="https://www.youtube.com/embed/bcG5-O_1CpE">
-</iframe> 
+  </iframe> 
+</div>
