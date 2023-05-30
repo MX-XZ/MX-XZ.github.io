@@ -41,7 +41,7 @@ Here we get the following:
     
     In other words, for the vertices $v_1, \dots, v_n$, we can take the optimal solution for a clique on $n$ vertices! This gives us, by the induction hypothesis, that the sum (under fixed $p$) has maximal value $$p \cdot (1- p) + \binom{n}{2} \left( \frac{1-p}{n}\right)^2=p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2.$$ 
     
-    We employing again some basic calculus: 
+    We again employ some basic calculus: 
     $$\frac{\text{d}}{\text{d} p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right) = 1 - 2p  + \frac{n-1}{n} (1-p) \overset{!}{=} 0 \implies p = \frac{1}{n+1}.$$
     
     As we also have 
