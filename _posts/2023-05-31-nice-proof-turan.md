@@ -52,7 +52,7 @@ Here we get the following:
     for $n+1$ vertices.
 {% endproof %}
 
-Now, here is where I got stuck. I had a conjectuer in mind, which turned out to be true, but couldn't see a good argument for why it should hold. I considered next $P_3$ and saw that for all stars any distribution where the center vertex has value $1/2$ is optimal. 
+Now, here is where I got stuck. I had a conjecture in mind, which turned out to be true, but couldn't see a good argument for why it should hold. I considered next $P_3$ and saw that for all stars any distribution where the center vertex has value $1/2$ is optimal. 
 
 Also, one can generalize Theorem 1 in such a way to show that, essentially, the same is true for complete multipartite graphs: Given $n$ partition classes, as long as each partition class has overall weight $1 /n$, this distribution will be optimal. 
 
