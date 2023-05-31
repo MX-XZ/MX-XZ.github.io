@@ -34,7 +34,7 @@ We prove the claim by induction on $n \in \mathbb{N}$. For simplicity sake, the 
 
 $$ \left( \frac{\text{d}}{\text{d} p} p \cdot (1-p) = 1 - 2p \overset{!}{=} 0 \implies p = \frac{1}{2} \right) \land \left( \frac{\text{d}^2}{\text{d}^2 p} p\cdot (1-p) = -2 < 0 \right)$$
 
-Now, for the induction step $n \rightsquigarrow n+1$, let $0 \leq p \leq 1$ be the probability of $v_{n+1}$, i.e. $\sum_{1 \leq i \leq n} pi = 1-p$. By splitting the sum into a sum on those edges incident to $v_{n+1}$ and the remaining edges, we get that the sum is equal to 
+Now, for the induction step $n \rightsquigarrow n+1$, let $0 \leq p \leq 1$ be the probability of $v_{n+1}$, i.e. $\sum_{1 \leq i \leq n} p_i = 1-p$. By splitting the sum into a sum on those edges incident to $v_{n+1}$ and the remaining edges, we get that the sum is equal to 
 
 $$p \cdot (1- p) + \sum_{1 \leq  i < j \leq n} p_i p_j.$$ 
 
