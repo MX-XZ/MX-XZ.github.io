@@ -64,7 +64,7 @@ The other fundamental insight is that, morally speaking, the support of the dist
 
 Hence, we get:
 
-**For every $n$-vertex graph $G$, the maximum is attained by considering an $\omega(G)$-clique in $G$ and considering the uniform distribution on that clique. In particular, the sum has then maximum value $(\omega(G) -1)(2 \omega(G)).$$**
+**For every $n$-vertex graph $G$, the maximum is attained by considering an $\omega(G)$-clique in $G$ and considering the uniform distribution on that clique. In particular, the sum has then maximum value $(\omega(G) -1)/(2 \omega(G)).$$**
 
 Now, let's just for fun consider a graph $G = (V,E)$ with $\omega(G)$ bounded by $k \in \mathbb{N}$. If $n$ is the number of vertices and $m$ the number of edges and just consider the uniform distribution on all vertices, we get 
 
