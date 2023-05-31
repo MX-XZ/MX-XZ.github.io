@@ -30,24 +30,23 @@ Here we get the following:
 **For $K_n$, the optimal distribution is the uniform one, i.e. where every vertex has probability $1/n$.**
 
 
-    We prove the claim by induction on $n \in \mathbb{N}$. For simplicity sake, the vertices of $K_n$ will always be $v_1, \dots, v_n$. If $n = 1$, the claim is trivial. If $n = 2$, we would essentially maximize $p \cdot (1-p)$ under the constraint $p \in [0,1]$, so using calculus one gets that $p \cdot (1-p)$ is maximized if $p = \frac{1}{2}$:
-    $$ \left( \frac{\text{d}}{\text{d} p} p \cdot (1-p) = 1 - 2p \overset{!}{=} 0 \implies p = \frac{1}{2} \right) \land \left( \frac{\text{d}^2}{\text{d}^2 p} p \cdot (1-p) = -2 < 0 \right)$$
+We prove the claim by induction on $n \in \mathbb{N}$. For simplicity sake, the vertices of $K_n$ will always be $v_1, \dots, v_n$. If $n = 1$, the claim istrivial. If $n = 2$, we would essentially maximize $p \cdot (1-p)$ under the constraint $p \in [0,1]$, so using calculus one gets that $p \cdot (1-p)$ ismaximized if $p = \frac{1}{2}$:
+$$ \left( \frac{\text{d}}{\text{d} p} p \cdot (1-p) = 1 - 2p \overset{!}{=} 0 \implies p = \frac{1}{2} \right) \land \left( \frac{\text{d}^2}{\text{d}^2 p} p\cdot (1-p) = -2 < 0 \right)$$
 
-    Now, for the induction step $n \rightsquigarrow n+1$, let $0 \leq p \leq 1$ be the probability of $v_{n+1}$, i.e. $\sum_{1 \leq i \leq n} pi = 1-p$. By splitting the sum into a sum on those edges incident to $v_{n+1}$ and the remaining edges, we get that the sum is equal to 
-    
-    $$p \cdot (1- p) + \sum_{1 \leq  i < j \leq n} p_i p_j.$$ 
-    
-    In other words, for the vertices $v_1, \dots, v_n$, we can take the optimal solution for a clique on $n$ vertices! This gives us, by the induction hypothesis, that the sum (under fixed $p$) has maximal value $$p \cdot (1- p) + \binom{n}{2} \left( \frac{1-p}{n}\right)^2=p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2.$$ 
-    
-    We again employ some basic calculus: 
-    $$\frac{\text{d}}{\text{d} p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right) = 1 - 2p  + \frac{n-1}{n} (1-p) \overset{!}{=} 0 \implies p = \frac{1}{n+1}.$$
-    
-    As we also have 
-    $$\frac{\text{d}^2}{\text{d}^2 p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right)  = -2 + \frac{n-1}{n} < 0 ,$$
+Now, for the induction step $n \rightsquigarrow n+1$, let $0 \leq p \leq 1$ be the probability of $v_{n+1}$, i.e. $\sum_{1 \leq i \leq n} pi = 1-p$. Bysplitting the sum into a sum on those edges incident to $v_{n+1}$ and the remaining edges, we get that the sum is equal to 
 
-    we see that $p = 1 / (n+1)$ maximizes the sum under all $p$ and thus we get that, again, the uniform distribution is optimal with value 
-    $$\binom{n+1}{2} \left( \frac{1}{n+1}\right)^2 = \frac{n}{2(n+1)}$$
-    for $n+1$ vertices. $\qedsymbol$
+$$p \cdot (1- p) + \sum_{1 \leq  i < j \leq n} p_i p_j.$$ 
+
+In other words, for the vertices $v_1, \dots, v_n$, we can take the optimal solution for a clique on $n$ vertices! This gives us, by the induction hypothesis,that the sum (under fixed $p$) has maximal value $$p \cdot (1- p) + \binom{n}{2} \left( \frac{1-p}{n}\right)^2=p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2.$$ 
+
+We again employ some basic calculus: 
+$$\frac{\text{d}}{\text{d} p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right) = 1 - 2p  + \frac{n-1}{n} (1-p) \overset{!}{=} 0 \implies p = \frac{1}{+1}.$$
+
+As we also have 
+$$\frac{\text{d}^2}{\text{d}^2 p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right)  = -2 + \frac{n-1}{n} < 0 ,$$
+we see that $p = 1 / (n+1)$ maximizes the sum under all $p$ and thus we get that, again, the uniform distribution is optimal with value 
+$$\binom{n+1}{2} \left( \frac{1}{n+1}\right)^2 = \frac{n}{2(n+1)}$$
+for $n+1$ vertices. $\qedsymbol$
 
 Now, here is where I got stuck. I had a conjecture in mind, which turned out to be true, but couldn't see a good argument for why it should hold. I considered next $P_3$ and saw that for all stars any distribution where the center vertex has value $1/2$ is optimal. 
 
