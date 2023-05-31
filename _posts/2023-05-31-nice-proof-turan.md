@@ -40,13 +40,18 @@ $$p \cdot (1- p) + \sum_{1 \leq  i < j \leq n} p_i p_j.$$
 In other words, for the vertices $v_1, \dots, v_n$, we can take the optimal solution for a clique on $n$ vertices! This gives us, by the induction hypothesis,that the sum (under fixed $p$) has maximal value $$p \cdot (1- p) + \binom{n}{2} \left( \frac{1-p}{n}\right)^2=p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2.$$ 
 
 We again employ some basic calculus: 
+
 $$\frac{\text{d}}{\text{d} p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right) = 1 - 2p  + \frac{n-1}{n} (1-p) \overset{!}{=} 0 \implies p = \frac{1}{+1}.$$
 
 As we also have 
+
 $$\frac{\text{d}^2}{\text{d}^2 p} \left( p \cdot (1- p) + \frac{n-1}{2n} (1-p)^2 \right)  = -2 + \frac{n-1}{n} < 0 ,$$
+
 we see that $p = 1 / (n+1)$ maximizes the sum under all $p$ and thus we get that, again, the uniform distribution is optimal with value 
+
 $$\binom{n+1}{2} \left( \frac{1}{n+1}\right)^2 = \frac{n}{2(n+1)}$$
-for $n+1$ vertices. $\qedsymbol$
+
+for $n+1$ vertices. 
 
 Now, here is where I got stuck. I had a conjecture in mind, which turned out to be true, but couldn't see a good argument for why it should hold. I considered next $P_3$ and saw that for all stars any distribution where the center vertex has value $1/2$ is optimal. 
 
