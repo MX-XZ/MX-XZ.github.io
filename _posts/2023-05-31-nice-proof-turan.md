@@ -30,9 +30,9 @@ Here we get the following:
 **For $K_n$, the optimal distribution is the uniform one, i.e. where every vertex has probability $1/n$.**
 
 
-We prove the claim by induction on $n \in \mathbb{N}$. For simplicity sake, the vertices of $K_n$ will always be $v_1, \dots, v_n$. If $n = 1$, the claim is trivial. If $n = 2$, we would essentially maximize $p \cdot (1-p)$ under the constraint $p \in [0,1]$, so using calculus one gets that $p \cdot (1-p)$ is maximized if $p = \frac{1}{2}$:
+We prove the claim by induction on $n \in \mathbb{N}$. For simplicity sake, the vertices of $K_n$ will always be $v_1, \dots, v_n$. If $n = 1$, the claim is trivial. If $n = 2$, we would essentially maximize $p \cdot (1-p)$ under the constraint $p \in [0,1]$, so using calculus one gets that $p \cdot (1-p)$ is maximized if $p = 1/2$:
 
-$$ \left( \frac{\text{d}}{\text{d} p} p \cdot (1-p) = 1 - 2p \overset{!}{=} 0 \implies p = \frac{1}{2} \right) \land \left( \frac{\text{d}^2}{\text{d}^2 p} p\cdot (1-p) = -2 < 0 \right)$$
+$$ \left( \frac{\text{d}}{\text{d} p} p \cdot (1-p) = 1 - 2p \overset{!}{=} 0 \implies p = \frac{1}{2} \right) \land \left( \frac{\text{d}^2}{\text{d}^2 p} p\cdot (1-p) = -2 < 0 \right).$$
 
 Now, for the induction step $n \rightsquigarrow n+1$, let $0 \leq p \leq 1$ be the probability of $v_{n+1}$, i.e. $\sum_{1 \leq i \leq n} p_i = 1-p$. By splitting the sum into a sum on those edges incident to $v_{n+1}$ and the remaining edges, we get that the sum is equal to 
 
@@ -64,7 +64,7 @@ The other fundamental insight is that, morally speaking, the support of the dist
 
 Hence, we get:
 
-**For every $n$-vertex graph $G$, the maximum is attained by considering an $\omega(G)$-clique in $G$ and considering the uniform distribution on that clique. In particular, the sum has then maximum value $$\frac{\omega(G) -1}{2 \omega(G)}.$$**
+**For every $n$-vertex graph $G$, the maximum is attained by considering an $\omega(G)$-clique in $G$ and considering the uniform distribution on that clique. In particular, the sum has then maximum value $(\omega(G) -1)(2 \omega(G)).$$**
 
 Now, let's just for fun consider a graph $G = (V,E)$ with $\omega(G)$ bounded by $k \in \mathbb{N}$. If $n$ is the number of vertices and $m$ the number of edges and just consider the uniform distribution on all vertices, we get 
 
