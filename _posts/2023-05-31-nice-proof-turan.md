@@ -10,7 +10,7 @@ Actually, talking about good things that are math-related, there was a joint sem
 Mubayi is an expert on the field, but the talk was really enjoyable, full of surprises really, including the following: 
 
 - Connections from Roth's Theorem (my preparatory project topic) to hypergraph and design stuff. 
-- Axenovich was mentioned twice or three times which we made me kinda proud. 
+- Axenovich was mentioned twice or three times which made me kinda proud. 
 - The Theorem by Frankl and Rödl on Hypergraph coverings (proved using the Nibble method), which we actually saw in class last week, was one of the fundamental tools today. 
 
 Yeah, so really enjoyable. *Anyway*, one other thing I am excited about is the ''Summer of Math Exposition 3'' (SoME3) this year. 
@@ -60,7 +60,7 @@ Also, one can generalize Theorem 1 in such a way to show that, essentially, the 
 
 I also imagined that one can probably algorithmically determine it for all cographs via a similar argument (and spoiler, the graph given by Akiva wasn't a cograph). But it's $P_4$ where I really got stuck and then decided to just go to bed. In the next morning, someone ("noahballz") was then able to fully answer the question by basically considering what would happen if we didn't have a clique.
 
-The other fundamental insight is that, morally speaking, the support of the distribution **needs** to be a clique. Formally, let's assume that $p_1, \dots, p_n$ is an optimal distribution for a graph on $n$ vertices such that the "support", i.e. the number of $i$'s such that $p_i = 0$, is minimal. Assume that the support doesn't induce a clique, i.e. there are non-adjacent vertices $i$ and $j$ with $p_i , p_j >0$. Let's now imagine increasing one by $x > 0$ and decreasing the other by that same amount. Then, the sum we're trying to minimize is linear. In particular, either the maximum is at one of the endpoints, so our distribution was not optimal, or we may choose one of them to have value $p_i + p_j$ while the other has value zero, and that distribution would give the sum the same value but have a smaller support. Either way, a contradiction!
+The other fundamental insight is that, morally speaking, the support of the distribution **needs** to be a clique. Formally, let's assume that $p_1, \dots, p_n$ is an optimal distribution for a graph on $n$ vertices such that the "support", i.e. the number of $i$'s such that $p_i \neq 0$, is minimal. Assume that the support doesn't induce a clique, i.e. there are non-adjacent vertices $i$ and $j$ with $p_i , p_j >0$. Let's now imagine increasing one by $x > 0$ and decreasing the other by that same amount. Then, the sum we're trying to minimize is linear. In particular, either the maximum is at one of the endpoints, so our distribution was not optimal, or we may choose one of them to have value $p_i + p_j$ while the other has value zero, and that distribution would give the sum the same value but have a smaller support. Either way, a contradiction!
 
 Hence, we get:
 
