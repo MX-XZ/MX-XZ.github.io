@@ -27,6 +27,8 @@ May someone find them helpful in their studies.
 <a href="{{ '/assets/pdfs/gt_ii_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <h5>Introduction to Ergodic Theory (2023) &#172;</h5>
 <a href="{{ '/assets/pdfs/introduction_to_ergodic_theory_notes.pdf' | site.baseurl | prepend: site.url }}" title="Lecture Notes">Lecture Notes</a>
+<br>
+<a href="{{ '/assets/pdfs/introduction_to_ergodic_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <h5>Model Theory (2022 – 2023) &#172;</h5>
 <a href="{{ '/assets/pdfs/model_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <br>
