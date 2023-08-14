@@ -21,6 +21,8 @@ May someone find them helpful in their studies.
 <a href="{{ '/assets/pdfs/algebraic_methods_in_combinatorics_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <h5>Extremal Graph Theory (2023) &#172;</h5>
 <a href="https://www.overleaf.com/read/rkmvstqqfdgn" title="Lecture Notes">Lecture Notes (in German)</a>
+<br>
+<a href="{{ '/assets/pdfs/extremal_graph_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <h5>Graph Theory II (2022 – 2023) &#172;</h5>
 <a href="{{ '/assets/pdfs/gt_ii_book.pdf' | site.baseurl | prepend: site.url }}" title="Solutions">Inofficial Solutions</a>
 <br>
