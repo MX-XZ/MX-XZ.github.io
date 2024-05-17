@@ -44,7 +44,7 @@ More recently, here's me singing at the *Feminale* at the HfMT Hamburg together 
 
 <div class="video-container">
   <iframe width="100%" height="100%" frameborder="0" allow="fullscreen;"
-  src="https://www.youtube.com/watch?v=8RbTnpx2G6E">
+  src="https://www.youtube.com/embed/8RbTnpx2G6E">
   </iframe> 
 </div>
 <h3>Podcast &#172;</h3>
