@@ -40,13 +40,7 @@ During the Corona pandemic, I participated in a video project of my school choir
   src="https://www.youtube.com/embed/l-VZ2SAqaXI">
   </iframe> 
 </div>
-More recently, here's me singing at the *Feminale* at the HfMT Hamburg together with the chamber choir of the University of Hamburg. 
 
-<div class="video-container">
-  <iframe width="100%" height="100%" frameborder="0" allow="fullscreen;"
-  src="https://www.youtube.com/embed/8RbTnpx2G6E">
-  </iframe> 
-</div>
 <h3>Podcast &#172;</h3>
 Together with <a href="https://j-he-9c9329.webflow.io/">Jiaxuan He</a>, I host a (semi-regular) movie podcast. 
 <div class="video-container">
