@@ -12,7 +12,7 @@ Basically, I am currently finishing my master's thesis under Mathias. Before tha
 
 Oh, well that's done and we have good news: Another paper! 
 
-This came from a collaboration that was initiated through the <a href="https://www.ibs.re.kr/ecopro/1st-ecopro-combinatorial-week-workshop-2023/">1st ECOPRO Combinatorial Week workshop 2023"</a>. 
+This came from a collaboration that was initiated through the <a href="https://www.ibs.re.kr/ecopro/1st-ecopro-combinatorial-week-workshop-2023/">1st ECOPRO Combinatorial Week workshop 2023</a>. 
 
 Funnily enough, as I am currently back in Karlsruhe and Letícia is giving a talk this week, I decided to go to the talk yesterday / today. 
 It was nice seeing some familiar faces and talking with some former student colleagues, and Felix Clemen, Dingyuan Liu and Letícia. 
