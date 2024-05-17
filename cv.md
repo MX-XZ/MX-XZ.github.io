@@ -4,12 +4,16 @@ author: Xiangxiang Michael Zheng
 layout: cv
 ---
 
+For a more comprehensive CV, please contact me via <a href="mailto:xiangxiang.zheng@studium.uni-hamburg.de">mail</a>.
+
 <h3>Education</h3>
 
 --- |--- 
-2022 -- | **M. Sc. Mathematics**, *University of Hamburg*, *currently 1.0*.
-2019 -- 2022 | **B. Sc. Mathematics**, *Karlsruhe Institute of Technology*, *1.1*.
-2018 -- 2022 | **B. Sc. Computer Science**, *Karlsruhe Institute of Technology*, *1.2*.
+2024 -- | **Ph.D. Mathematics**, *Emory University*, Atlanta.  
+2022 -- 2024 | **M.Sc. Mathematics**, *University of Hamburg*, *currently 1.0*.
+2023 -- 2023 | **Visiting Student Researcher**, *Institute for Basic Science*, Daejeon. 
+2019 -- 2022 | **B.Sc. Mathematics**, *Karlsruhe Institute of Technology*, *1.1*.
+2018 -- 2022 | **B.Sc. Computer Science**, *Karlsruhe Institute of Technology*, *1.2*.
 2010 -- 2018 | **Abitur**, *Helmholtz-Gymnasium*, Karlsruhe, *1.4*.
 2006 -- 2010 | **Primary Education**, *Viktor-von-Scheffel Schule*, Karlsruhe.
 
@@ -25,16 +29,21 @@ If you are interested in reading my thesis, you may go to <a href="{{ '/material
 
 <h3>Experience</h3>
 
-<h5>Student Assistant &#172;</h5>
+<h5>Voluntary Worker at StudyTutors (formerly known as "Studenten bilden Schüler e.V.")&#172;</h5>
+--- | --- 
+2023 -- present | Tutoring school students in mathematics on a weekly basis.
+
+<h5>Student Assistant at KIT &#172;</h5>
 
 --- |---
 2021 -- 2022 | Grading *Graph Theory*.
 2021 -- 2021 | Grading and tutoring *Introductory Stochastics for Teachers*.
 2020 -- 2021 | Grading and tutoring *Theoretical Foundations of Computer Science*.
 
-<h5>Choir Singer &#172;</h5>
+<h5>Choir Singer ("basso profondo") &#172;</h5>
 
 --- | ---
+2023 -- 2024 | **Chamber Choir**, *Univeristy of Hamburg*, Hamburg.
 2013 -- 2022 | **Kammerchor**, *Helmholtz-Gymnasium*, Karlsruhe.
 2019 -- 2019 | **Internationaler Chor**, *Karlsruhe Institute of Technology*. 
 2013 -- 2017 | **Philharmonischer Chor**, *Helmholtz-Gymnasium*, Karlsruhe.
@@ -55,5 +64,5 @@ Video Editing | Experience in *DaVinci Resolve 18*.
 
 --- | ---
 German | Native
-English | Fluent, C2-Level
+English | Fluent, C2-Level, TOEFL iBT: 115 / 120
 Chinese | Proficient
