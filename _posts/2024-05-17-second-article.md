@@ -18,6 +18,6 @@ Funnily enough, as I am currently back in Karlsruhe and Letícia is giving a tal
 It was nice seeing some familiar faces and talking with some former student colleagues, and Felix Clemen, Dingyuan Liu and Letícia. 
 The most *random* (pun intended) part was, however, that Letícia last-minute decided to give a talk on that preprint! It's the first time that I sat in the room while someone else is talking about a paper where I was a co-author. Oh well. 
 
-On our (me, Dingyuan, Felix and Letícia) trip to the palace, we also made Jakob (Zimmermann) who recently finished his bachelor thesis under Maria. Turns out -- this was news to me -- that his result and his thesis got cited by Jacob Fox and he will be going to Berlin for Szabó! To think that I tutored that guy just two years ago on an introductory class in graph theory, that's quite a jump. 
+On our (me, Dingyuan, Felix and Letícia) trip to the palace, we also made Jakob (Zimmermann) who recently finished his bachelor thesis under Maria. Turns out -- this was news to me -- that his result and his thesis got cited by Jacob Fox and he will be going to Berlin for Szabó! To think that I graded that guy's homework just two years ago for an introductory class in graph theory$\dots$
 
 To be fair, I am going to Atlanta for my PhD in less than three months. Time really moves. At least I also got to spend some time with friends today too. :)
