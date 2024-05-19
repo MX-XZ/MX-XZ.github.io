@@ -21,3 +21,5 @@ The most *random* (pun intended) part was, however, that Letícia last-minute de
 On our (me, Dingyuan, Felix and Letícia) trip to the palace, we also made Jakob (Zimmermann) who recently finished his bachelor thesis under Maria. Turns out -- this was news to me -- that his result and his thesis got cited by Jacob Fox and he will be going to Berlin for Szabó! To think that I graded that guy's homework just two years ago for an introductory class in graph theory$\dots$
 
 To be fair, I am going to Atlanta for my PhD in less than three months. Time really moves. At least I also got to spend some time with friends today too. :)
+
+Update: It is very likely that we will not submit our paper as the key observation can actually be found in one of the paper's cited by us$\dots$
