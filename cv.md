@@ -27,6 +27,12 @@ Grade | 1.0
 
 If you are interested in reading my thesis, you may go to <a href="{{ '/materials' | site.baseurl | prepend: site.url }}" title="Materials">Materials</a>. 
 
+<h3>Attended conferences / seminars / workshops</h3>
+
+--- | ---
+2024 | BPHW Seminar in Discrete Mathematics 2024, Berlin, Germany 
+2023 | 1st ECOPRO Combinatorial Week workshop 2023, Daejeon, Korea
+
 <h3>Experience</h3>
 
 <h5>Voluntary Worker at StudyTutors (formerly known as "Studenten bilden Schüler e.V.")&#172;</h5>
