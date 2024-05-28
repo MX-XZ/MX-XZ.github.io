@@ -19,9 +19,6 @@ May someone find them helpful in their studies.
 <a href="{{ '/assets/pdfs/algebraic_methods_in_combinatorics_notes.pdf' | site.baseurl | prepend: site.url }}" title="Lecture Notes">Lecture Notes (in German)</a>
 <br>
 <a href="{{ '/assets/pdfs/algebraic_methods_in_combinatorics_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
-<h5>Master Tehsis's (2023 – 2024) &#172;</h5>
-<a href="{{ '/assets/pdfs/Master_Thesis_Michael_Zheng.pdf' | site.baseurl | prepend: site.url }}" title="Master's Thesis">Master's Thesis (Draft)</a>
-<br>
 <h5>Extremal Graph Theory (2023) &#172;</h5>
 <a href="https://www.overleaf.com/read/rkmvstqqfdgn" title="Lecture Notes">Lecture Notes (in German)</a>
 <br>
@@ -34,6 +31,8 @@ May someone find them helpful in their studies.
 <a href="{{ '/assets/pdfs/introduction_to_ergodic_theory_notes.pdf' | site.baseurl | prepend: site.url }}" title="Lecture Notes">Lecture Notes</a>
 <br>
 <a href="{{ '/assets/pdfs/introduction_to_ergodic_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
+<h5>Master's Thesis (2023 – 2024) &#172;</h5>
+<a href="{{ '/assets/pdfs/Master_Thesis_Michael_Zheng.pdf' | site.baseurl | prepend: site.url }}" title="Master's Thesis">Master's Thesis (Draft)</a>
 <h5>Model Theory (2022 – 2023) &#172;</h5>
 <a href="{{ '/assets/pdfs/model_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <br>
