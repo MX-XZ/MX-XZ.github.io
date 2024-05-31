@@ -32,7 +32,7 @@ May someone find them helpful in their studies.
 <br>
 <a href="{{ '/assets/pdfs/introduction_to_ergodic_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <h5>Master's Thesis (2023 – 2024) &#172;</h5>
-<a href="{{ '/assets/pdfs/Master_Thesis_Michael_Zheng.pdf' | site.baseurl | prepend: site.url }}" title="Master's Thesis">Master's Thesis (Draft)</a>
+<a href="{{ '/assets/pdfs/main.pdf' | site.baseurl | prepend: site.url }}" title="Master's Thesis">Master's Thesis (Draft)</a>
 <h5>Model Theory (2022 – 2023) &#172;</h5>
 <a href="{{ '/assets/pdfs/model_theory_protocol.pdf' | site.baseurl | prepend: site.url }}" title="Protocol">Protocol of Oral Exam (in German)</a>
 <br>
