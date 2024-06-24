@@ -43,7 +43,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 
 <h3>Experience</h3>
 
-<h5>Voluntary Worker at StudyTutors (formerly known as "Studenten bilden Schüler e.V.")&#172;</h5>
+<h5>Voluntary Worker at StudyTutors (formerly known as ''Studenten bilden Schüler e.V.'')&#172;</h5>
 
 --- | --- 
 2023 -- present | Tutoring school students in mathematics on a weekly basis.
@@ -55,7 +55,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 2021 -- 2021 | Grading and tutoring *Introductory Stochastics for Teachers*.
 2020 -- 2021 | Grading and tutoring *Theoretical Foundations of Computer Science*.
 
-<h5>Choir Singer ("basso profondo") &#172;</h5>
+<h5>Choir Singer (''basso profondo'') &#172;</h5>
 
 --- | ---
 2023 -- 2024 | **Chamber Choir**, *Univeristy of Hamburg*, Hamburg.
