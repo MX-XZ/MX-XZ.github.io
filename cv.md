@@ -8,8 +8,8 @@ For a more comprehensive CV, please contact me via <a href="mailto:xiangxiang.zh
 
 <h3>Education</h3>
 
---- |--- 
-2024 -- | **Ph.D. Mathematics**, *Emory University*, Atlanta.  
+--- | --- 
+2024 -- future | **Ph.D. Mathematics**, *Emory University*, Atlanta.  
 2022 -- 2024 | **M.Sc. Mathematics**, *University of Hamburg*, *1.0*.
 2023 -- 2023 | **Visiting Student Researcher**, *Institute for Basic Science*, Daejeon. 
 2019 -- 2022 | **B.Sc. Mathematics**, *Karlsruhe Institute of Technology*, *1.1*.
@@ -50,7 +50,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 
 <h5>Student Assistant at KIT &#172;</h5>
 
---- |---
+--- | ---
 2021 -- 2022 | Grading *Graph Theory*.
 2021 -- 2021 | Grading and tutoring *Introductory Stochastics for Teachers*.
 2020 -- 2021 | Grading and tutoring *Theoretical Foundations of Computer Science*.
