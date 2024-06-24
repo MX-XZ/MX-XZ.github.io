@@ -10,7 +10,7 @@ For a more comprehensive CV, please contact me via <a href="mailto:xiangxiang.zh
 
 --- |--- 
 2024 -- | **Ph.D. Mathematics**, *Emory University*, Atlanta.  
-2022 -- 2024 | **M.Sc. Mathematics**, *University of Hamburg*, *currently 1.0*.
+2022 -- 2024 | **M.Sc. Mathematics**, *University of Hamburg*, *1.0*.
 2023 -- 2023 | **Visiting Student Researcher**, *Institute for Basic Science*, Daejeon. 
 2019 -- 2022 | **B.Sc. Mathematics**, *Karlsruhe Institute of Technology*, *1.1*.
 2018 -- 2022 | **B.Sc. Computer Science**, *Karlsruhe Institute of Technology*, *1.2*.
@@ -25,7 +25,15 @@ Supervisor | Professor Dr. Maria Axenovich
 Description | This thesis is devoted to a particular edge coloring problem, that of interval colorability: A graph $G$ is called *interval colorable* if there is an assignment of integers to its edges such that each vertex is incident to edges colored by a set of consecutive integers and there are no two adjacent edges of the same color.
 Grade | 1.0
 
-If you are interested in reading my thesis, you may go to <a href="{{ '/materials' | site.baseurl | prepend: site.url }}" title="Materials">Materials</a>. 
+<h3>Master's Thesis</h3>
+
+--- | --- 
+Title | *On the Existence of Steiner Triple Systems in 3-uniform Hypergraphs*
+Supervisor | Professor Dr. Mathias Schacht
+Description | This thesis concerns itself with a possible generalization of Dirac's theorem for perfect matchings, one of the fundamental results in graph theory. More specifically, we study the minimum codegree threshold for a 3-uniform hypergraph to contain a (spanning) Steiner triple system, which can be seen as the ``higher-dimensional'' analogue of a perfect matching.  
+Grade | 1.0
+
+If you are interested in reading my theses, you may go to <a href="{{ '/materials' | site.baseurl | prepend: site.url }}" title="Materials">Materials</a>. 
 
 <h3>Attended conferences / seminars / workshops</h3>
 
