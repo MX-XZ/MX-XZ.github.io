@@ -30,7 +30,7 @@ Grade | 1.0
 --- | --- 
 Title | *On the Existence of Steiner Triple Systems in 3-uniform Hypergraphs*
 Supervisor | Professor Dr. Mathias Schacht
-Description | This thesis concerns itself with a possible generalization of Dirac's theorem for perfect matchings, one of the fundamental results in graph theory. More specifically, we study the minimum codegree threshold for a 3-uniform hypergraph to contain a (spanning) Steiner triple system, which can be seen as the ``higher-dimensional'' analogue of a perfect matching.  
+Description | This thesis concerns itself with a possible generalization of Dirac's theorem for perfect matchings, one of the fundamental results in graph theory. More specifically, we study the minimum codegree threshold for a 3-uniform hypergraph to contain a (spanning) Steiner triple system, which can be seen as the ''higher-dimensional'' analogue of a perfect matching.  
 Grade | 1.0
 
 If you are interested in reading my theses, you may go to <a href="{{ '/materials' | site.baseurl | prepend: site.url }}" title="Materials">Materials</a>. 
