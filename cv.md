@@ -35,7 +35,7 @@ Grade | 1.0
 
 If you are interested in reading my theses, you may go to <a href="{{ '/materials' | site.baseurl | prepend: site.url }}" title="Materials">Materials</a>. 
 
-<h3>Attended conferences / seminars / workshops</h3>
+<h3>Attended Conferences / Seminars / Workshops</h3>
 
 --- | ---
 2024 | BPHW Seminar in Discrete Mathematics 2024, Berlin, Germany 
