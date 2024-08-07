@@ -9,7 +9,7 @@ For a more comprehensive CV, please contact me via <a href="mailto:xiangxiang.zh
 <h3>Education</h3>
 
 --- | --- 
-2024 -- future | **Ph.D. Mathematics**, *Emory University*, Atlanta.  
+2024 -- present | **Ph.D. Mathematics**, *Emory University*, Atlanta.  
 2022 -- 2024 | **M.Sc. Mathematics**, *University of Hamburg*, *1.0*.
 2023 -- 2023 | **Visiting Student Researcher**, *Institute for Basic Science*, Daejeon. 
 2019 -- 2022 | **B.Sc. Mathematics**, *Karlsruhe Institute of Technology*, *1.1*.
