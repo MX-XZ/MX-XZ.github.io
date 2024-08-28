@@ -58,7 +58,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h5>Choir Singer (''basso profondo'') &#172;</h5>
 
 --- | ---
-2023 -- 2024 | **Chamber Choir**, *Univeristy of Hamburg*, Hamburg.
+2023 -- 2024 | **Chamber Choir**, *University of Hamburg*, Hamburg.
 2013 -- 2022 | **Kammerchor**, *Helmholtz-Gymnasium*, Karlsruhe.
 2019 -- 2019 | **Internationaler Chor**, *Karlsruhe Institute of Technology*. 
 2013 -- 2017 | **Philharmonischer Chor**, *Helmholtz-Gymnasium*, Karlsruhe.
