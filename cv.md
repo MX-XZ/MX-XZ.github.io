@@ -46,7 +46,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h5>Voluntary Worker at StudyTutors (''Studenten bilden Schüler'')&#172;</h5>
 
 --- | --- 
-2023 -- present | Tutoring school students in mathematics on a weekly basis.
+2023 -- 2024 | Tutoring school students in mathematics on a weekly basis.
 
 <h5>Student Assistant at KIT &#172;</h5>
 
