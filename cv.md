@@ -38,6 +38,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h3>Attended Conferences / Seminars / Workshops</h3>
 
 --- | ---
+2024 | Atlanta Lecture Series XXIX 2024, Atlanta, USA 
 2024 | BPHW Seminar in Discrete Mathematics 2024, Berlin, Germany 
 2023 | 1st ECOPRO Combinatorial Week workshop 2023, Daejeon, Korea
 
