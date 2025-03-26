@@ -38,6 +38,9 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h3>Attended Conferences / Seminars / Workshops</h3>
 
 --- | ---
+2025 | IMPA -- 2nd Brazilian School of Combinatorics, Rio de Janeiro, Brazil
+2025 | SLMath --  Introductory Workshop - Graph Theory: Extremal, Probabilistic and Structural, Berkeley, USA
+2025 | SLMath -- Introductory Workshop: Probability and Statistics of Discrete Structures, Berkeley, USA
 2024 | Atlanta Lecture Series XXIX 2024, Atlanta, USA 
 2024 | BPHW Seminar in Discrete Mathematics 2024, Berlin, Germany 
 2023 | 1st ECOPRO Combinatorial Week workshop 2023, Daejeon, Korea
