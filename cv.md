@@ -38,6 +38,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h3>Attended Conferences / Seminars / Workshops</h3>
 
 --- | ---
+2025 | BPHW Seminar in Discrete Mathematics 2025, Warsaw, Poland 
 2025 | IMPA -- 2nd Brazilian School of Combinatorics, Rio de Janeiro, Brazil
 2025 | SLMath --  Introductory Workshop - Graph Theory: Extremal, Probabilistic and Structural, Berkeley, USA
 2025 | SLMath -- Introductory Workshop: Probability and Statistics of Discrete Structures, Berkeley, USA
