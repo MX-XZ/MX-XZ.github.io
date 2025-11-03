@@ -6,6 +6,9 @@ layout: bib
 
 There is not much here yet, but I already have Erdős number 3 via Paul Erdős $\to$ Zoltán Füredi $\to$ Maria Axenovich $\to$ me.
 
+<h3>2025 &#172;</h3>
+<a href="https://arxiv.org/abs/2510.27689" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., Zhu, D. G., *A Lovász-Kneser theorem for triangulations*. In: *arXiv*.</a>
+
 <h3>2024 &#172;</h3>
 <a href="https://arxiv.org/abs/2405.09486v1" title="arXiv">Clifton, A., Liu, H., Mattos, L., Zheng, M., *Subgraphs of random graphs in hereditary families*. In: *arXiv*.</a>
 
