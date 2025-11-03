@@ -38,6 +38,7 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h3>Attended Conferences / Seminars / Workshops</h3>
 
 --- | ---
+2025 | PCMI 2025 Graduate Summer School, Park City, USA 
 2025 | BPHW Seminar in Discrete Mathematics 2025, Warsaw, Poland 
 2025 | IMPA -- 2nd Brazilian School of Combinatorics, Rio de Janeiro, Brazil
 2025 | SLMath --  Introductory Workshop - Graph Theory: Extremal, Probabilistic and Structural, Berkeley, USA
@@ -47,6 +48,13 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 2023 | 1st ECOPRO Combinatorial Week workshop 2023, Daejeon, Korea
 
 <h3>Experience</h3>
+
+<h5>Teaching at Emory University &#172;</h5>
+
+--- | ---
+2025 -- 2025 | Teaching assistant for *Linear Algebra*.
+2025 -- 2025 | Grading *Calculus II*.
+2024 -- 2024 | Grading *Foundations of Mathematics*.
 
 <h5>Voluntary Worker at StudyTutors (''Studenten bilden Schüler'')&#172;</h5>
 
@@ -63,10 +71,11 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h5>Choir Singer (''basso profondo'') &#172;</h5>
 
 --- | ---
-2023 -- 2024 | **Chamber Choir**, *University of Hamburg*, Hamburg.
-2013 -- 2022 | **Kammerchor**, *Helmholtz-Gymnasium*, Karlsruhe.
-2019 -- 2019 | **Internationaler Chor**, *Karlsruhe Institute of Technology*. 
-2013 -- 2017 | **Philharmonischer Chor**, *Helmholtz-Gymnasium*, Karlsruhe.
+2025 -- | **Concert Choir** under Eric Nelson, *Emory University*, Atlanta.
+2023 -- 2024 | **Chamber Choir** under Thomas Posth, *University of Hamburg*, Hamburg.
+2013 -- 2022 | **Kammerchor** under Stephan Aufenanger, *Helmholtz-Gymnasium*, Karlsruhe.
+2019 -- 2019 | **Internationaler Chor** under Myrto Zarzalis, *Karlsruhe Institute of Technology*, Karlsruhe. 
+2013 -- 2017 | **Philharmonischer Chor** under Hans Jochen Stiefel, *Helmholtz-Gymnasium*, Karlsruhe.
 
 <h5>Miscellaneous &#172;</h5>
 
