@@ -5,7 +5,7 @@ layout: bib
 ---
 
 <h3>2026 &#172;</h3>
-<a href="https://arxiv.org/abs/2604.21888" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., *A Lovász-Kneser theorem for triangulations*. *Submitted.*</a>
+<a href="https://arxiv.org/abs/2604.21888" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., *Kneser Graphs of Triangulations are Hamiltonian*. *Submitted.*</a>
 
 <h3>2025 &#172;</h3>
 <a href="https://arxiv.org/abs/2510.27689" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., Zhu, D. G., *A Lovász-Kneser theorem for triangulations*. *Submitted.*</a>
