@@ -5,19 +5,25 @@ layout: bib
 ---
 
 <h3>2026 &#172;</h3>
+
+<a href="https://arxiv.org/abs/2605.15147" title="arXiv">Miyazaki, R., Mulrenin, E., Pohoata, C., Zheng, M., *Improved Ramsey bounds for generalized Schur equations*. *Submitted.*</a>
+
 <a href="https://arxiv.org/abs/2604.21888" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., *Kneser Graphs of Triangulations are Hamiltonian*. *Submitted.*</a>
 
 <h3>2025 &#172;</h3>
-<a href="https://arxiv.org/abs/2510.27689" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., Zhu, D. G., *A Lovász-Kneser theorem for triangulations*. *Submitted.*</a>
 
 <a href="https://arxiv.org/abs/2512.19600" title="arXiv">Miyazaki, R., Pohoata, C., Zheng, M., *Chromatic Polynomial Evaluation Spectra*. *Submitted.*</a>
 
+<a href="https://arxiv.org/abs/2510.27689" title="arXiv">Molnar, A., Pohoata, C., Zheng, M., Zhu, D. G., *A Lovász-Kneser theorem for triangulations*. *Submitted.*</a>
+
 <h3>2024 &#172;</h3>
+
 <a href="https://arxiv.org/abs/2405.09486v1" title="arXiv">Clifton, A., Liu, H., Mattos, L., Zheng, M., *Subgraphs of random graphs in hereditary families*. In: *arXiv*.</a>
 
 <a href="https://arxiv.org/abs/2411.07981" title="arXiv">Zheng, M., *Codegree conditions for (fractional) Steiner triple systems*. Acceped to: *SIDMA*. </a>
 
 <h3>2023 &#172;</h3>
+
 <a href="https://doi.org/10.1002/jgt.23003" title="Journal of Graph Theory">Axenovich, M., Zheng, M., *Interval colorings of graphs -- coordinated and unstable no-wait schedules*. In: *Journal of Graph Theory* 104 (4 2023), pp. 757-768, Wiley.</a>
 
 (I have Erdős number 3 via Paul Erdős $\to$ Zoltán Füredi $\to$ Maria Axenovich $\to$ me.)
