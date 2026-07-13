@@ -20,7 +20,7 @@ layout: bib
 
 <a href="https://arxiv.org/abs/2405.09486v1" title="arXiv">Clifton, A., Liu, H., Mattos, L., Zheng, M., *Subgraphs of random graphs in hereditary families*. In: *arXiv*.</a>
 
-<a href="https://arxiv.org/abs/2411.07981" title="arXiv">Zheng, M., *Codegree conditions for (fractional) Steiner triple systems*. Acceped to: *SIDMA*. </a>
+<a href="https://doi.org/10.1137/24M1711108" title="arXiv">Zheng, M., *Codegree conditions for (fractional) Steiner triple systems*. Acceped to: *SIAM Journal of Discrete Mathematics* 40 (3 2026), pp. 959-987. </a>
 
 <h3>2023 &#172;</h3>
 
