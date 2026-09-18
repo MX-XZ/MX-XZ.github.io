@@ -40,3 +40,8 @@ May someone find them helpful in their studies.
 
 <h5>Preparation Course (2022 – 2023) &#172;</h5>
 <a href="{{ '/assets/pdfs/prep_course_notes.pdf' | site.baseurl | prepend: site.url }}" title="Notes">Notes</a>
+
+<h3>Emory University</h3>
+<h5>Expositions &#172;</h5>
+<a href="{{ '/assets/pdfs/Kalai_conjecture_on_tight_hypertrees.pdf' | site.baseurl | prepend: site.url }}" title="Kalai's conjecture on tight hypertrees">Kalai's conjecture for Tight Trees</a>
+<br>
