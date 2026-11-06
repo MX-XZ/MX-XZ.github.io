@@ -38,6 +38,11 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h3>Attended Conferences / Seminars / Workshops</h3>
 
 --- | ---
+2026 | Combinatorics at the Confluence, Pittsburgh, USA
+2026 | SIAM Conference on Discrete Mathematics (DM26), San Diego, USA
+2026 | ISM – Recent advances in probability and combinatorics, Montreal, Canada
+2026 | Graduate Student Combinatorics Conference (GSCC) 2026, Chicago, USA
+2025 | Atlanta Lecture Series XXX (ALS 30), Atlanta, USA 
 2025 | PCMI 2025 Graduate Summer School, Park City, USA 
 2025 | BPHW Seminar in Discrete Mathematics 2025, Warsaw, Poland 
 2025 | IMPA -- 2nd Brazilian School of Combinatorics, Rio de Janeiro, Brazil
@@ -52,7 +57,8 @@ If you are interested in reading my theses, you may go to <a href="{{ '/material
 <h5>Teaching at Emory University &#172;</h5>
 
 --- | ---
-2025 -- 2025 | Teaching assistant for *Linear Algebra*.
+2026 -- 2026 | Instructor for *Calculus I*.
+2025 -- 2026 | Teaching assistant for *Linear Algebra*.
 2025 -- 2025 | Grading *Calculus II*.
 2024 -- 2024 | Grading *Foundations of Mathematics*.
 
