@@ -6,7 +6,7 @@ layout: bib
 
 <h3>2026 &#172;</h3>
 
-<a href="https://doi.org/10.1137/24M1711108" title="arXiv">Zheng, M., *Codegree conditions for (fractional) Steiner triple systems*. Acceped to: *SIAM Journal of Discrete Mathematics* 40 (3 2026), pp. 959-987. </a>
+<a href="https://doi.org/10.1137/24M1711108" title="arXiv">Zheng, M., *Codegree conditions for (fractional) Steiner triple systems*. In: *SIAM Journal of Discrete Mathematics* 40 (3 2026), pp. 959-987. </a>
 
 <h3>2023 &#172;</h3>
 
